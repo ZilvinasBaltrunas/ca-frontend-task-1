@@ -91,5 +91,6 @@ export default {
 				margin: 0 7.5px;
 			}
 		}
+		//
 	}
 </style>
